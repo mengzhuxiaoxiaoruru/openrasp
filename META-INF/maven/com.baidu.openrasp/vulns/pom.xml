@@ -172,7 +172,7 @@
     <dependency>
       <groupId>net.bytebuddy</groupId>
       <artifactId>byte-buddy</artifactId>
-      <version>1.9.11</version>
+      <version>1.12.10</version>
       <exclusions>
         <exclusion>
           <artifactId>xml-apis</artifactId>
